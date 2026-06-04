@@ -1,7 +1,7 @@
 I'm a technology enthusiast, content creator, and lifelong learner from Indonesia. I enjoy exploring web development, digital media production, drone videography, and creative technology solutions. My passion lies in combining technology and creativity to build useful projects and meaningful digital experiences.
 
-What I'm Working On
-🌱Web application development
+--What I'm Working On
+--🌱Web application development
 🌱Educational and academic information systems
 🌱Content creation and digital media projects
 🌱Drone photography and videography
