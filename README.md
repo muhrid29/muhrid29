@@ -1,2 +1,2 @@
 ## Hi there 👋
-- 🌱 I’m currently learning programming
+- 🌱 I’m currently learning web development
